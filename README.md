@@ -4,6 +4,9 @@
     <img width="70%" src="./Data/Fig1.png" alt="synMine_i3_Concept">
 </p>
 
+## Abstract
+Recently, utilization of machine learning (ML) has led to astonishing progress in computational protein design, bringing into reach the targeted engineering of proteins for industrial and biomedical applications. However, the design of proteins for emergent functions of core relevance to cells, such as the ability to spatiotemporally self-organize and thereby structure the cellular space, is still extremely challenging. While on the generative side conditional generative models and multi-state design are on the rise, for emergent functions there is a lack of tailored screening methods as typically needed in a protein design project, both computational and experimental. Here we describe a proof-of-principle of how such screening, <i>in silico</i> and <i>in vitro</i>, can be achieved for novel ML-generated variants of a protein that forms intracellular spatiotemporal patterns. For computational screening we use a structure-based divide-and-conquer approach to find the most promising candidates, while for the subsequent in vitro screening we use synthetic cell-mimics as established by Bottom-Up Synthetic Biology. We then show that the best screened candidate can indeed completely substitute the wildtype gene in <i>Escherichia coli</i>. These results raise great hopes for the next level of synthetic biology, where ML-designed synthetic proteins will be used to engineer cellular functions.
+
 ## Repository Structure
 The repository contains five directories: 
 - [Data](https://github.com/BelaFrohn/syninE/Data): Containing all sequences, predicted structures, scores and the model weights. 
