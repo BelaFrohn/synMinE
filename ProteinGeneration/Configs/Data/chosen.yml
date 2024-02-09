@@ -1,0 +1,17 @@
+download:
+  interpro_id: "IPR005527"
+cluster:
+  threshold: 1.0
+filter_preMSA:
+  only_standard_amino_acids: True
+  minimum_length: 20
+  maximum_length: 200
+msa:
+  clustalo: "default"
+  hmm: 'minE.hmm'
+filter_postMSA:
+  column_frequency_cutoff: 0.02
+embed:
+  sequence: onehot
+split:
+  train_proportion: 0.8

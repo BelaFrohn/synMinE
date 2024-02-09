@@ -1,0 +1,8 @@
+optimiser:
+  optim: 'Adam'
+  batch_size: 8
+  learning_rate: 0.001
+  num_epochs: 60
+loss_func:
+  cutoff_epoch: 0
+  error_relation: 0.01

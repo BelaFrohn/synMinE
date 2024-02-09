@@ -1,0 +1,1 @@
+Here the software ProteinSol has to be downloaded from https://protein-sol.manchester.ac.uk/software and unzipped. 

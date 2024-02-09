@@ -1,0 +1,10 @@
+architecture:
+  layers: 2
+  activation_function: 'ReLU'
+  dropout: False
+  batchnorm: False
+  input_size: 3906 # for 0.02 threshold
+hparams:
+  latent_dims: 16
+  hidden_size_1: 128
+  hidden_size_2: 128

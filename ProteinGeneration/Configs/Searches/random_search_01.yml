@@ -1,0 +1,39 @@
+data:
+  download:
+    interpro_id: "IPR005527"
+  cluster:
+    threshold: 1.0
+  filter_preMSA:
+    only_standard_amino_acids: True
+    minimum_length: 20
+    maximum_length: 200
+  msa:
+    clustalo: "default"
+    hmm: 'minE.hmm'
+  filter_postMSA:
+    column_frequency_cutoff: 0.02
+  embed:
+    sequence: onehot
+  split:
+    train_proportion: 0.8
+model:
+  architecture:
+    layers: [1, 2, 3]
+    activation_function: 'ReLU'
+    dropout: False
+    batchnorm: False
+    input_size: 3906 # for 0.02 threshold
+  hparams:
+    latent_dims: [8, 10, 16]
+    hidden_size_1: [32, 64, 128]
+    hidden_size_2: [32, 64 ,128]
+    hidden_size_3: [32, 64, 128]
+optimiser:
+  optimiser:
+    optim: 'Adam'
+    batch_size: [4, 8, 16, 32, 64]
+    learning_rate: [0.0001, 0.001, 0.01]
+    num_epochs: 40
+  loss_func:
+    cutoff_epoch: 0
+    error_relation: 0.01

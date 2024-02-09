@@ -1,0 +1,2 @@
+### Training the MSA-VAE and generating novel MinE homologs
+The script 01_main_random_search.py is for hyperperameter search, the script 02_main_vae.py for the final training after hyperparameter search. 

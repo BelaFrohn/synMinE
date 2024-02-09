@@ -1,0 +1,3 @@
+AA frequency correlation	0.9720356418454682
+AA pairwise frequency correlation	0.5313566374765295
+Parameter count	513874
