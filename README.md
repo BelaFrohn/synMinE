@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-    <img width="70%" src="https://github.com/BelaFrohn/synMinE/Data/Fig1.png" alt="synMine_i3_Concept">
+    <img width="70%" src="./Data/Fig1.png" alt="synMine_i3_Concept">
 </p>
 
 
