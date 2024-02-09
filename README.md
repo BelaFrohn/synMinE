@@ -1,18 +1,8 @@
-<br/>
 <h1 align="center">synMinE</h1>
-<p align="center"><i>Code for the paper "Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells".</i></p>
-<br/>
-
+<p align="center"><i>Code for the paper "Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells" by Shunshi Kohyama, Béla P. Frohn, Leon Babl and Petra Schwille, published in Nature Communications.</i></p>
 <p align="center">
     <img width="70%" src="./Data/Fig1.png" alt="synMine_i3_Concept">
 </p>
-
-
-<br/>
-This repository contains all data and code for the paper "Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells" by Shunshi Kohyama, Béla P. Frohn, Leon Babl and Petra Schwille, published in Nature Communications (doi).
-<br/>
-
-
 ## Repository Structure
 The repository contains five directories: 
 - [Data](https://github.com/BelaFrohn/syninE/Data): Containing all sequences, predicted structures, scores and the model weights. 
