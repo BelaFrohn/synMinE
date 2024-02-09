@@ -16,10 +16,10 @@ The repository contains five directories:
 - [PostHocAnalysis](https://github.com/BelaFrohn/syninE/PostHocAnalysis): The jupyter notebook and data used to analyse the <i>in silico</i> scores after unblinding the <i>in vitro</i> results. 
 
 
-## 📘&nbsp; License
+## License
 TODO
 
-## ✏️&nbsp; Citation
+## Citation
 ```
 @ARTICLE
 {TODO,
