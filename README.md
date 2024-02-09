@@ -3,6 +3,7 @@
 <p align="center">
     <img width="70%" src="./Data/Fig1.png" alt="synMine_i3_Concept">
 </p>
+
 ## Repository Structure
 The repository contains five directories: 
 - [Data](https://github.com/BelaFrohn/syninE/Data): Containing all sequences, predicted structures, scores and the model weights. 
