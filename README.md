@@ -25,7 +25,7 @@ TODO
 {TODO,
 author={Kohyama, Shunshi and Frohn, Béla P. and Babl, Leon and Schwille, Petra},
 journal={Nature Communications},
-title={ProtTrans: Towards Cracking the Language of Lifes Code Through Self-Supervised Deep Learning and High Performance Computing},
+title={Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells},
 year={2024},
 volume={},
 number={},
