@@ -20,7 +20,6 @@ The repository contains five directories:
 TODO
 
 ## ✏️&nbsp; Citation
-If you use this code or our pretrained models for your publication, please cite the original paper:
 ```
 @ARTICLE
 {TODO,
