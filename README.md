@@ -12,7 +12,7 @@ The repository contains five directories:
 - [Data](https://github.com/BelaFrohn/syninE/Data): Containing all sequences, predicted structures, scores and the model weights. 
 - [ProteinGeneration](https://github.com/BelaFrohn/syninE/ProteinGeneration): The code used to geenrate novel MinE-like sequences. 
 - [insilicoScoring](https://github.com/BelaFrohn/syninE/insilicoScoring): The pipeline used to score the generated sequences <i>in silico</i>. 
-- [Analysis](https://github.com/BelaFrohn/syninE/Analysis): The code used to analyse <i>in vitro</i> and <i>in vivo</i> data. 
+- [Analysis](https://github.com/BelaFrohn/syninE/Analysis): The code used to analyse <i>in vitro</i> imaging data, a custom Fiji plugin. 
 - [PostHocAnalysis](https://github.com/BelaFrohn/syninE/PostHocAnalysis): The jupyter notebook and data used to analyse the <i>in silico</i> scores after unblinding the <i>in vitro</i> results. 
 
 
