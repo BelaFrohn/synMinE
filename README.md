@@ -17,7 +17,7 @@ The repository contains five directories:
 
 
 ## License
-TODO
+[MIT License](https://github.com/BelaFrohn/syninE/LICENSE)
 
 ## Citation
 ```
