@@ -9,15 +9,15 @@ Recently, utilization of machine learning (ML) has led to astonishing progress i
 
 ## Repository Structure
 The repository contains five directories: 
-- [Data](https://github.com/BelaFrohn/synMinE/Data): Containing all sequences, predicted structures, scores and the model weights. 
-- [ProteinGeneration](https://github.com/BelaFrohn/synMinE/ProteinGeneration): The code used to geenrate novel MinE-like sequences. 
-- [insilicoScoring](https://github.com/BelaFrohn/synMinE/insilicoScoring): The pipeline used to score the generated sequences <i>in silico</i>. 
-- [Analysis](https://github.com/BelaFrohn/synMinE/Analysis): The code used to analyse <i>in vitro</i> imaging data, a custom Fiji plugin. 
-- [PostHocAnalysis](https://github.com/BelaFrohn/synMinE/PostHocAnalysis): The jupyter notebook and data used to analyse the <i>in silico</i> scores after unblinding the <i>in vitro</i> results. 
+- [Data](https://github.com/BelaFrohn/synMinE/tree/main/Data): Containing all sequences, predicted structures, scores and the model weights. 
+- [ProteinGeneration](https://github.com/BelaFrohn/synMinE/tree/main/ProteinGeneration): The code used to geenrate novel MinE-like sequences. 
+- [insilicoScoring](https://github.com/BelaFrohn/synMinE/tree/main/insilicoScoring): The pipeline used to score the generated sequences <i>in silico</i>. 
+- [Analysis](https://github.com/BelaFrohn/synMinE/tree/main/Analysis): The code used to analyse <i>in vitro</i> imaging data, a custom Fiji plugin. 
+- [PostHocAnalysis](https://github.com/BelaFrohn/synMinE/tree/main/PostHocAnalysis): The jupyter notebook and data used to analyse the <i>in silico</i> scores after unblinding the <i>in vitro</i> results. 
 
 
 ## License
-[MIT License](https://github.com/BelaFrohn/synMinE/LICENSE)
+[MIT License](https://github.com/BelaFrohn/synMinE/tree/main/LICENSE)
 
 ## Citation
 ```
