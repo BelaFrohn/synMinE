@@ -1,5 +1,5 @@
 <h1 align="center">synMinE</h1>
-<p align="center"><i>Code for the paper <b>"Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells"</b> by Shunshi Kohyama, Béla P. Frohn, Leon Babl and Petra Schwille, [published](https://doi.org/10.1038/s41467-024-46203-0) in Nature Communications.</i></p>
+<p align="center"><i>Code for the paper <b>"Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells"</b> by Shunshi Kohyama, Béla P. Frohn, Leon Babl and Petra Schwille, <a href="https://doi.org/10.1038/s41467-024-46203-0">published</a> in Nature Communications.</i></p>
 <p align="center">
     <img width="70%" src="./Data/Fig1.png" alt="synMine_i3_Concept">
 </p>
