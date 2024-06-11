@@ -10,7 +10,7 @@ Recently, utilization of machine learning (ML) has led to astonishing progress i
 ## Repository Structure
 The repository contains five directories: 
 - [Data](https://github.com/BelaFrohn/synMinE/tree/main/Data): Containing all sequences, predicted structures, scores and the model weights. 
-- [ProteinGeneration](https://github.com/BelaFrohn/synMinE/tree/main/ProteinGeneration): The code used to geenrate novel MinE-like sequences. 
+- [ProteinGeneration](https://github.com/BelaFrohn/synMinE/tree/main/ProteinGeneration): The code used to generate novel MinE-like sequences. 
 - [insilicoScoring](https://github.com/BelaFrohn/synMinE/tree/main/insilicoScoring): The pipeline used to score the generated sequences <i>in silico</i>. 
 - [Analysis](https://github.com/BelaFrohn/synMinE/tree/main/Analysis): The code used to analyse <i>in vitro</i> imaging data, a custom ImageJ plugin. 
 - [PostHocAnalysis](https://github.com/BelaFrohn/synMinE/tree/main/PostHocAnalysis): The jupyter notebook and data used to analyse the <i>in silico</i> scores after unblinding the <i>in vitro</i> results. 
