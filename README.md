@@ -1,5 +1,5 @@
 <h1 align="center">synMinE</h1>
-<p align="center"><i>Code for the paper <b>"Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells"</b> by Shunshi Kohyama, Béla P. Frohn, Leon Babl and Petra Schwille, published in TBD.</i></p>
+<p align="center"><i>Code for the paper <b>"Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells"</b> by Shunshi Kohyama, Béla P. Frohn, Leon Babl and Petra Schwille, [published](https://doi.org/10.1038/s41467-024-46203-0) in Nature Communications.</i></p>
 <p align="center">
     <img width="70%" src="./Data/Fig1.png" alt="synMine_i3_Concept">
 </p>
@@ -22,13 +22,12 @@ The repository contains five directories:
 ## Citation
 ```
 @ARTICLE
-{TODO,
+{KohyamaFrohn2024,
 author={Kohyama, Shunshi and Frohn, Béla P. and Babl, Leon and Schwille, Petra},
-journal={TBD},
+journal={Nature Communications},
 title={Machine Learning-Aided Design and Screening of an Emergent Protein Function in Synthetic Cells},
 year={2024},
-volume={},
-number={},
-pages={},
-doi={TBD}}
+volume={15},
+number={2010},
+doi={https://doi.org/10.1038/s41467-024-46203-0}}
 ```
